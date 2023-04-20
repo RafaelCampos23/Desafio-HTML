@@ -3,7 +3,7 @@
 <br>
 
 <h2><b>Sobre:</b></h2>
-<p>Desafio proposto no módulo de HTML no curso do <a href="https://rodolfomori.com.br/devclub">DevClub</a>. O Objeto do desafio foi a apresentação pessoal, além da descrição de algumas metas.</p>
+<p>Desafio proposto no módulo de HTML no curso do <a href="https://rodolfomori.com.br/devclub">DevClub</a>. O Objeto do desafio foi a apresentação pessoal, além da descrição de metas.</p>
 <br>
 <br>
 
